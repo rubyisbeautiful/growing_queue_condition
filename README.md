@@ -1,4 +1,4 @@
-# GrowingQueueCondition
+# GrowingQueueCondition [![Build Status](https://travis-ci.org/rubyisbeautiful/growing_queue_condition.png)](https://travis-ci.org/rubyisbeautiful/growing_queue_condition)[![Code Climate](https://codeclimate.com/github/rubyisbeautiful/growing_queue_condition.png)](https://codeclimate.com/github/rubyisbeautiful/growing_queue_condition)
 
 This is a God::Condition for god [http://godrb.com/] to alert on a queue that is growing.  The principal use case is
 for a background processors, such as DelayedJob, Resque, ActiveMQ, etc...
