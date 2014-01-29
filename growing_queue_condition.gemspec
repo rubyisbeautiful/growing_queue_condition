@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = GrowingQueueCondition::VERSION
   spec.authors       = ['rubyisbeautiful']
   spec.email         = ['bcptaylor@gmail.com']
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{a God::Condition for the god gem, which will alert on a neglected queue using any object/method}
+  spec.summary       = %q{a God::Condition for the god gem, which will alert on a neglected queue}
   spec.homepage      = ""
   spec.license       = "MIT"
 
